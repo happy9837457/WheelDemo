@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WheelDemo</string>
+
+    <!-- ********************wheel******************** -->
+    <string name="select_item_btn">选中项</string>
+    <string name="select_item_tv">选中项:</string>
+
+</resources>
